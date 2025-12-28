@@ -1,0 +1,9 @@
+allow_images=true
+mode=dmenu
+# This must match what is in the script
+dmenu-parse_action=true
+gtk_dark=true
+width=1000
+height=800
+columns=3
+image_size=250
